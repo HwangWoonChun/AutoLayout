@@ -43,7 +43,7 @@ AutoLayout Recture
 
 * Top과 Leading의 계산법
 
-          1) Y * 2 + 10
+          * Y * 2 + 10
 
 * Bottom 과 Trailing 의 계산법
 
