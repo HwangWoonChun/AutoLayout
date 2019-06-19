@@ -26,7 +26,7 @@ AutoLayout Recture
 
 * 예제) 화면 두개를 꽉 채우기
 
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/1.png" width = 200 height = 450> <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/2.png" width = 200 height = 150>  <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/3.png" width = 250 height = 150>
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/1.png" width = 200 height = 450> <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/2.png" width = 200 height = 150>  <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/3.png" width = 200 height = 150>
 
 ## D. Align
 
@@ -52,9 +52,8 @@ AutoLayout Recture
 
           Top에 * 2를 하여 현재 y 값에 * 2를 하게 된다. iPhone X 경우 상단 44 공간이 있기 때문에 * 2 = 88
 
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/4.png" width = 250 height = 550>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 200> 
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/6.png" width = 250 height = 100>
+
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/4.png" width = 250 height = 550> <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 200> <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/6.png" width = 250 height = 100>
 
 * 예제) leading multiplier 2 + 10
 
