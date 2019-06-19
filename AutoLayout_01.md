@@ -91,7 +91,7 @@ AutoLayout Recture
 
 ## F. Vary for traits
 
-* 화면의 상태에 따라(가로모드, 세로모드)에 따라서 적용되는 AutoLayout 을 설정
+* 화면의 상태에 따라(가로모드, 세로모드)혹은 특정 디바이스에 따라서 적용되는 AutoLayout 을 설정
 
 1. Vary for Traits 선택 height, width에 따라서 적용되는 모드 선택
 2. height를 선택하면 landscape에 적용되는 모델들 확인 가능
