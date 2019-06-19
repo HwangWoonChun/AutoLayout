@@ -44,5 +44,5 @@ AutoLayout Recture
 * 예제 mutiplier 2
 
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/4.png" width = 250 height = 550>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 200> 
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/6.png" width = 250 height = 200>
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 100> 
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/6.png" width = 250 height = 100>
