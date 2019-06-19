@@ -66,6 +66,21 @@ AutoLayout Recture
           818 = height * 2 이기 때문에 height가 절반이 줄게 된다.
           
 * 예제) 이미지 중앙이 아닌 살짝 상단에 위치한 라벨 그리기
+
+          Algin Center Y Mutiplier * 0.6 > 40% 정도 상단으로 올려준다.
+
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/7.png" width = 250 height = 550>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/8.png" width = 250 height = 100> 
-          
+         
+         
+* 예제) 뷰 4개를 일정하게 배치 하기
+
+          Algin Center Y,X to SuperView 1.5 or 0.5
+
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/9.png" width = 250 height = 550>
+
+
+## E. Priority
+
+* 우선순위가 높다는 것은 우선 반영 된다는 의미이다. 낮다는것 나중에 반영
+
+* Content Hugging Priority : 
