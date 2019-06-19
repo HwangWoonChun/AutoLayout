@@ -41,7 +41,7 @@ AutoLayout Recture
 
 * 어떤 화면의 Constraint에 대한 비율이다, 2, 2%, 1:2, 1/2 처럼 표현 할 수 있다.
 
-* 예제 mutiplier 2
+* 예제 mutiplier 2 : Top에 * 2를 하여 현재 y 값에 * 2를 하게 된다. iPhone X 경우 상단 44 공간이 있기 때문에 * 2 = 88
 
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/4.png" width = 250 height = 550>
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 200> 
