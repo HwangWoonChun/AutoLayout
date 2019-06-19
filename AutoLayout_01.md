@@ -83,4 +83,18 @@ AutoLayout Recture
 
 * 우선순위가 높다는 것은 우선 반영 된다는 의미이다. 낮다는것 나중에 반영
 
-* Content Hugging Priority : 
+* Content Hugging Priority : 내가 가진 컨텐츠를 그대로 노출 시킬 수 있는 가에 대한 우선순위, 더 높은 우선순위를 가진 Label이 Fit하게 설정된다.
+
+* Compression Resistance Priority : 현재 Label이 주변 Label에 의해 찌그려지는 정도를 낮추는 거에 대한 우선순위 더 높은 우선순위 가진 Label이 찌그러짐 정도 가 낮다.
+
+* Line Break : 짤리는 부분에 대한 표현 법
+
+* intrinsic Content Size : 본질적인 컨텐츠 크기
+
+## F. Vary for traits
+
+* 화면의 상태에 따라(가로모드, 세로모드)에 따라서 적용되는 AutoLayout 을 설정
+
+1. Vary for Traits 선택 height, width에 따라서 적용되는 모드 선택
+2. height를 선택하면 landscape에 적용되는 모델들 확인 가능
+3. 변경될 AutoLayout을 지정하고 Constraints값들을 변경한 후 Done시 완료
