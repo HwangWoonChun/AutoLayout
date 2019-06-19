@@ -26,5 +26,4 @@ AutoLayout Recture
 
 * 예제 화면 두개를 꽉 채우기
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/1.png" width = 250 height = 550>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/2.png" width = 350 height = 200>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/3.png" width = 350 height = 200>
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/2.png" width = 150 height = 100> <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/3.png" width = 150 height = 100>
