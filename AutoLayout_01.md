@@ -39,6 +39,10 @@ AutoLayout Recture
 
 ## E. Multiplier
 
-* 비율
+* 어떤 화면의 Constraint에 대한 비율이다, 2, 2%, 1:2, 1/2 처럼 표현 할 수 있다.
 
-3. Ledaing, Trailing, Bottom, Edge : 어떤 뷰 기준으로 좌, 끝, 아래, 상단 정렬
+* 예제 mutiplier 2
+
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/4.png" width = 250 height = 550>
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/5.png" width = 250 height = 200> 
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/6.png" width = 250 height = 200>
