@@ -28,3 +28,17 @@ AutoLayout Recture
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/1.png" width = 250 height = 550>
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/2.png" width = 250 height = 200> 
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/3.png" width = 250 height = 200>
+
+## D. Align
+
+* 어떤 뷰를 기준으로 정렬 하는 것
+
+1. Horizontal in Container, Vertical in Container : 부모 뷰 기준으로 수평, 수직 정렬
+2. Horizontal Center, Vertical Center : 어떤 뷰 기준으로 수평, 수직 정렬
+3. Ledaing, Trailing, Bottom, Edge : 어떤 뷰 기준으로 좌, 끝, 아래, 상단 정렬
+
+## E. Multiplier
+
+* 비율
+
+3. Ledaing, Trailing, Bottom, Edge : 어떤 뷰 기준으로 좌, 끝, 아래, 상단 정렬
