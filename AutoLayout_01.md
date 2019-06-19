@@ -67,5 +67,5 @@ AutoLayout Recture
           
 * 예제) 이미지 중앙이 아닌 살짝 상단에 위치한 라벨 그리기
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/7.png" width = 250 height = 550>
-<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/8.png" width = 250 height = 200> 
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/8.png" width = 250 height = 100> 
           
