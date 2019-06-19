@@ -41,11 +41,11 @@ AutoLayout Recture
 
 * 어떤 화면의 Constraint에 대한 비율이다, 2, 2%, 1:2, 1/2 처럼 표현 할 수 있다.
 
-* Top과 Leading의 계산법 : 
-      * Y * 2 + 10
+* Top과 Leading의 계산법
+          1) Y * 2 + 10
 
 * Bottom 과 Trailing 의 계산법
-      * 818 = 2 * X + 10, 이들의 계산이 다른 것은 끝을 나타내는 속성을 가지기 때문이다.
+          1) 818 = 2 * X + 10, 이들의 계산이 다른 것은 끝을 나타내는 속성을 가지기 때문이다.
 
 * 예제 leading multiplier 2
       * Top에 * 2를 하여 현재 y 값에 * 2를 하게 된다. iPhone X 경우 상단 44 공간이 있기 때문에 * 2 = 88
