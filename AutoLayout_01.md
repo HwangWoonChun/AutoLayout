@@ -106,3 +106,23 @@ AutoLayout Recture
 
 2. layout margin을 선택하여 default, fixed, language directional 선택하여 margin 조절
 <img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/10.png" width = 150 height = 200>
+
+## H. StackView
+
+* 연속된 뷰들을 간단하게 표현이 가능
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/12.png" width = 150 height = 250>
+
+1. Axis : 스택뷰의 방향
+
+2. Alignment : 오브젝트들의 스택뷰 안에서의 방향
+
+          * Axis가 Horizontal 인 경우 : Fill, Top, Center, Bottom
+          * Axis가 Vertical 인 경우 : Fill, Leading, Center, Trailing
+
+3. Distribution : 오브젝트들 간 어떻게 표현 할지 설정
+
+          * Fill
+          * Fill Equally
+          * Fill Proportionally
+          * Equal Spacing
+          * Equal Centering : 각 뷰의 센터간 간격이 Spacing 값
