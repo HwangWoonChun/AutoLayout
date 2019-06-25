@@ -96,3 +96,13 @@ AutoLayout Recture
 1. Vary for Traits 선택 height, width에 따라서 적용되는 모드 선택
 2. height를 선택하면 landscape에 적용되는 모델들 확인 가능
 3. 변경될 AutoLayout을 지정하고 Constraints값들을 변경한 후 Done시 완료
+
+## G. MARGIN
+
+* 부모 뷰와 자식 뷰간의 간격
+
+1. Add New Constraints에 Constrain to margins 선택
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/11.png" width = 150 height = 200>
+
+2. layout margin을 선택하여 default, fixed, language directional 선택하여 margin 조절
+<img src = "https://github.com/HwangWoonChun/AutoLayout/blob/master/10.png" width = 150 height = 200>
